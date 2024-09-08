@@ -1,0 +1,12 @@
+{
+  "id": 1,
+  "name": "Alice",
+  "friends": [
+    { "name": "Bob", "age": 25 },
+    { "name": "Charlie", "age": 30 }
+  ],
+  "address": {
+    "city": "Wonderland",
+    "zip": 12345
+  }
+}
