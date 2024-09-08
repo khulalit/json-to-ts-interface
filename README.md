@@ -20,18 +20,18 @@ To install the CLI tool locally within a project, use:
 ## Usage
 ### Command-Line Interface
 The CLI tool is invoked using the json-to-ts command:
-```json-to-ts <input> <output> [rootInterfaceName]```
-```<input>: Path to the input JSON file.```
-```<output>: Path to the output TypeScript file.```
-```[rootInterfaceName] (Optional): Name for the root TypeScript interface. If not provided, defaults to RootInterface.``` 
+- ```json-to-ts <input> <output> [rootInterfaceName]```
+- ```<input>: Path to the input JSON file.```
+- ```<output>: Path to the output TypeScript file.```
+- ```[rootInterfaceName] (Optional): Name for the root TypeScript interface. If not provided, defaults to RootInterface.``` 
 
 ### Example
 Convert input.json to output.ts with a custom root interface name:
 
-```json-to-ts input.json output.ts CustomRootInterface```
+- ```json-to-ts input.json output.ts CustomRootInterface```
 Convert input.json to output.ts using the default root interface name:
 
-```json-to-ts input.json output.ts```
+- ```json-to-ts input.json output.ts```
 
 ## Development
 ### Prerequisites
