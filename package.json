@@ -1,7 +1,7 @@
 {
   "name": "json-to-ts-cli",
   "version": "1.0.0",
-  "description": "",
+  "description": "The JSON to TypeScript Interface Converter is a CLI tool designed to convert JSON files into TypeScript interfaces. This tool helps in generating TypeScript interfaces from JSON objects, making it easier to work with strongly typed data in TypeScript projects.",
   "main": "dist/cli.js",
   "bin": {
     "json-to-ts": "./dist/cli.js"
