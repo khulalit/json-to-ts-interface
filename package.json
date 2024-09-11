@@ -11,7 +11,22 @@
     "build": "tsc",
     "start": "tsc && node dist/cli.js"
   },
-  "keywords": [],
+  "keywords": [
+    "json",
+    "typescript",
+    "interface",
+    "json-to-ts",
+    "json-to-typescript",
+    "typescript-interfaces",
+    "typescript-cli",
+    "cli",
+    "typescript-tool",
+    "typescript-utility",
+    "json-converter",
+    "json-to-ts-interface",
+    "typescript-types",
+    "json-parser"
+  ],
   "author": "",
   "license": "ISC",
   "dependencies": {
