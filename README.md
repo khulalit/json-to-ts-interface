@@ -29,6 +29,7 @@ The CLI tool is invoked using the json-to-ts command:
 Convert input.json to output.ts with a custom root interface name:
 
 - ```json-to-ts input.json output.ts CustomRootInterface```
+
 Convert input.json to output.ts using the default root interface name:
 
 - ```json-to-ts input.json output.ts```
